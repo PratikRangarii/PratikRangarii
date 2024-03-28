@@ -1,3 +1,4 @@
+![logo](https://github.com/PratikRangarii/PratikRangarii/blob/main/banner-logo.png)
 <h1 align="center">Hi 👋, I'm Pratik Rangari</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
